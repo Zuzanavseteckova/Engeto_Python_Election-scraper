@@ -25,6 +25,7 @@ Skript main.py se spouští z příkazové řádky se dvěma argumenty:
 ## Ukázka použití
 
 Například pro okres Prostějov:
+
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"
 
 ## Ukázka průběhu stahování (zkráceno):
