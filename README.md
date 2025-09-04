@@ -20,12 +20,19 @@ Skript main.py se spouští z příkazové řádky se dvěma argumenty:
 
 1. URL adresa územního celku ze stránek volby.cz
 
-2 Název výstupního souboru CSV
+2. Název výstupního souboru CSV
 
 ## Ukázka použití
 
 Například pro okres Prostějov:
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"
+
+## Ukázka průběhu stahování (zkráceno):
+Nalezeno 97 obcí. Zpracovávám...
+-> Alojzov
+-> Bedihošť
+-> Bílovice-Lutotín
+-> Biskupice
 
 ## Ukázka výstupu
 
@@ -40,7 +47,7 @@ Po spuštění se v adresáři vytvoří soubor vysledky_prostejov.csv, který o
 ## Autor
 Projekt vznikl v rámci studia na ENGETO Python Akademii.
 
-Ukázka (zkráceno):
+## Ukázka výstupu (zkráceno):
 kód obce,obec,voliči v seznamu,vydané obálky,platné hlasy,Občanská demokratická strana,Česká pirátská strana,ANO 2011,…
 506761,Alojzov,205,145,144,29,18,32,…
 589268,Bedihošť,834,527,524,51,34,140,…
