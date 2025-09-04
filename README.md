@@ -37,6 +37,9 @@ Po spuštění se v adresáři vytvoří soubor vysledky_prostejov.csv, který o
 - počet platných hlasů
 - a následně počty hlasů pro všechny kandidující strany
 
+## Autor
+Projekt vznikl v rámci studia na ENGETO Python Akademii.
+
 Ukázka (zkráceno):
 kód obce,obec,voliči v seznamu,vydané obálky,platné hlasy,Občanská demokratická strana,Česká pirátská strana,ANO 2011,…
 506761,Alojzov,205,145,144,29,18,32,…
