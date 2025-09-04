@@ -36,7 +36,7 @@ Nalezeno 97 obcí. Zpracovávám...
 -> Bílovice-Lutotín
 -> Biskupice
 
-## Ukázka výstupu
+## Výstup
 
 Po spuštění se v adresáři vytvoří soubor vysledky_prostejov.csv, který obsahuje:
 - kód obce
@@ -46,12 +46,14 @@ Po spuštění se v adresáři vytvoří soubor vysledky_prostejov.csv, který o
 - počet platných hlasů
 - a následně počty hlasů pro všechny kandidující strany
 
-## Autor
-Projekt vznikl v rámci studia na ENGETO Python Akademii.
-
 ## Ukázka výstupu (zkráceno):
+
 kód obce,obec,voliči v seznamu,vydané obálky,platné hlasy,Občanská demokratická strana,Česká pirátská strana,ANO 2011,…
 506761,Alojzov,205,145,144,29,18,32,…
 589268,Bedihošť,834,527,524,51,34,140,…
 589276,Bílovice-Lutotín,431,279,275,13,30,83,…
+
+## Autor
+
+Projekt vznikl v rámci studia na ENGETO Python Akademii.
 
